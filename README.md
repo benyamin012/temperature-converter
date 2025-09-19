@@ -38,31 +38,4 @@ A simple web app to convert between Celsius (°C) and Fahrenheit (°F).
 ---
 
 💻 Developed with ❤️ by **Benyamin**
-)
 
-## ✨ Features
-
-* Convert Celsius → Fahrenheit
-* Convert Fahrenheit → Celsius
-* Reset input easily
-* Swap conversion direction with one click
-
-## 🛠️ Tech Stack
-
-* **HTML5**
-* **CSS3**
-* **JavaScript**
-
-## 📸 Screenshot
-
-![screenshot](img/thermometer.png)
-
-## 📌 Future Improvements
-
-* Add Kelvin conversion
-* Better UI with animations
-* Responsive design for mobile
-
----
-
-💻 Developed with ❤️ by **Benyamin**

@@ -2,11 +2,6 @@
 
 A simple web app to convert between Celsius (°C) and Fahrenheit (°F).
 
-## 🚀 Live Demo
-
-🔗 [View Project Online](# 🌡️ Temperature Converter
-
-A simple web app to convert between Celsius (°C) and Fahrenheit (°F).
 
 ## 🚀 Live Demo
 
